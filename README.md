@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Wahid Nadaf 👋
 
-<!--
-**wahidnadaf0786-netizen/wahidnadaf0786-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 B.Sc. Cyber Security Student | Aspiring Security Engineer
 
-Here are some ideas to get you started:
+I'm a first-year Cyber Security student at Pimpri Chinchwad University, Pune, India.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about cybersecurity, ethical hacking, programming, and technology.
+
+### 🚀 Currently Learning
+
+* C Programming
+* Python Programming
+* Linux & Kali Linux
+* Web Development (HTML, CSS, JavaScript)
+* Computer Networks
+* Cybersecurity Fundamentals
+
+### 🛠️ Technologies & Tools
+
+* Languages: C, Python (Learning)
+* Web: HTML, CSS, JavaScript
+* Operating Systems: Windows, Kali Linux
+* Tools: VS Code, Git, GitHub
+
+### 🎯 My Goals
+
+* Build practical cybersecurity projects.
+* Learn ethical hacking and penetration testing.
+* Explore Digital Forensics and Incident Response.
+* Develop my skills as a Security Engineer.
+
+### 📂 Featured Projects
+
+* PhishLens – Rule-Based Phishing URL Detection
+* C Programming Practice
+* Web Development Projects
+
+### 📫 Connect With Me
+
+* GitHub: https://github.com/wahidnadaf0786-netizen
+* LinkedIn: https://www.linkedin.com/in/wahid-nadaf-a12955317
+
+
+⭐ Learning, Building and Growing in Cybersecurity.
